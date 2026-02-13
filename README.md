@@ -16,7 +16,9 @@ This repository contains all the Arduino code used in my Arduino UNO R3 YouTube 
 • Arduino UNO R3 | RGB LED Code | Beginner Tutorial
     Video_link: https://youtu.be/rpbPFMrpw9I
     Code: Arduino_UNO_R3\video_4_RGB_LED_Code\RGB_LED_Code.ino
-
+• Arduino UNO R3 | RGB LED with Potentiometer | Beginner Tutorial
+    Video_link: https://youtu.be/pU6jhk2jT7g
+    Code: Arduino_UNO_R3\video_4_RGB_LED_Code\RGB_LED_Code.ino
 
 ---
 
