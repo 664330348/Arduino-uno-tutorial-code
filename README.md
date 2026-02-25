@@ -22,8 +22,12 @@ This repository contains all the Arduino code used in my Arduino UNO R3 YouTube 
   Code: `Arduino_UNO_R3/video_4_RGB_LED_Code/RGB_LED_Code.ino`
 
 - **Arduino UNO R3 | RGB LED with Potentiometer | Beginner Tutorial**  
-  Video link: [https://youtu.be/pU6jhk2jT7g](https://youtu.be/pU6jhk2jT7g)  
-  Code: `Arduino_UNO_R3/video_4_RGB_LED_Code/RGB_LED_Code.ino`
+  Video link: [https://youtu.be/4ZqfdLXJS70](https://youtu.be/4ZqfdLXJS70)  
+  Code: `Arduino_UNO_R3/video_5_RGB_LED_with_Potentiometer_Code/RGB_LED_with_Potentiometer.ino`
+
+- **Arduino UNO R3 | LCD1602 Display Tutorial | Beginner Tutorial**  
+  Video link: [https://youtu.be/f2YDEHM0N4c](https://youtu.be/f2YDEHM0N4c)  
+  Code: `Arduino_UNO_R3/video_6_ LCD1602_Display_Code/RGB_LED_Code.ino`
 
 ---
 
