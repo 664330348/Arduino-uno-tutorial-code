@@ -29,6 +29,10 @@ This repository contains all the Arduino code used in my Arduino UNO R3 YouTube 
   Video link: [https://youtu.be/f2YDEHM0N4c](https://youtu.be/f2YDEHM0N4c)  
   Code: `Arduino_UNO_R3/video_6_ LCD1602_Display_Code/RGB_LED_Code.ino`
 
+- **Arduino UNO R3 | Analog Sensors with LCD1602 | Beginner Tutorial**  
+  Video link: [https://youtu.be/zrXYwizzmvs](https://youtu.be/zrXYwizzmvs)  
+  Code: `Arduino_UNO_R3/video_7_Analog_Sensors_Code/Analog_Sensors.ino`
+
 ---
 
 If you find this helpful, please subscribe to my YouTube channel!
