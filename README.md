@@ -33,6 +33,11 @@ This repository contains all the Arduino code used in my Arduino UNO R3 YouTube 
   Video link: [https://youtu.be/zrXYwizzmvs](https://youtu.be/zrXYwizzmvs)  
   Code: `Arduino_UNO_R3/video_7_Analog_Sensors_Code/Analog_Sensors.ino`
 
+- **Arduino UNO R3 | Servo Motor Tutorial | Beginner Tutorial**  
+  Video link: [https://youtu.be/DbXPaQ_l8hU](https://youtu.be/DbXPaQ_l8hU)  
+  Part1_Code: `Arduino_UNO_R3/video_8_Servo_Motor_Code/Servo_Motor_Part1_ino`
+  Part2_Code: `Arduino_UNO_R3/video_8_Servo_Motor_Code/Servo_Motor_Part2_ino`
+
 ---
 
 If you find this helpful, please subscribe to my YouTube channel!
