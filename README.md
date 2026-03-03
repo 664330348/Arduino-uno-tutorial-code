@@ -4,7 +4,7 @@ This repository contains all the Arduino code used in my Arduino UNO R3 YouTube 
 
 ---
 
-## 📺 Video List
+## 📺 R3 Video List
 
 - **Arduino UNO R3 | LED Blink Wiring | Beginner Tutorial**  
   Video link: [https://youtu.be/t1YQSaTlitw](https://youtu.be/t1YQSaTlitw)
@@ -37,6 +37,16 @@ This repository contains all the Arduino code used in my Arduino UNO R3 YouTube 
   Video link: [https://youtu.be/DbXPaQ_l8hU](https://youtu.be/DbXPaQ_l8hU)  
   Part1_Code: `Arduino_UNO_R3/video_8_Servo_Motor_Code/Servo_Motor_Part1_ino`
   Part2_Code: `Arduino_UNO_R3/video_8_Servo_Motor_Code/Servo_Motor_Part2_ino`
+
+---
+
+---
+
+## 📺 R4 Video List
+
+- **Arduino UNO R4 WiFi | Arduino IoT Cloud Setup | Beginner Tutorial**  
+  Video link: [https://youtu.be/m5ufk184imQ](https://youtu.be/m5ufk184imQ)  
+  Code: `Arduino_UNO_R4_Wifi/video_1_Cloud_Setup_Code/Cloud_Setup.ino`
 
 ---
 
