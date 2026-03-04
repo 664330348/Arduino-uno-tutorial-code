@@ -35,8 +35,12 @@ This repository contains all the Arduino code used in my Arduino UNO R3 YouTube 
 
 - **Arduino UNO R3 | Servo Motor Tutorial | Beginner Tutorial**  
   Video link: [https://youtu.be/DbXPaQ_l8hU](https://youtu.be/DbXPaQ_l8hU)  
-  Part1_Code: `Arduino_UNO_R3/video_8_Servo_Motor_Code/Servo_Motor_Part1_ino`
-  Part2_Code: `Arduino_UNO_R3/video_8_Servo_Motor_Code/Servo_Motor_Part2_ino`
+  Part1_Code: `Arduino_UNO_R3/video_8_Servo_Motor_Code/Servo_Motor_Part1.ino`
+  Part2_Code: `Arduino_UNO_R3/video_8_Servo_Motor_Code/Servo_Motor_Part2.ino`
+
+- **Arduino UNO R3 | Stepper Motor Tutorial | Beginner Friendly**  
+  Video link: [https://youtu.be/rf3ZPHj9d7c](https://youtu.be/rf3ZPHj9d7c)  
+  Part1_Code: `Arduino_UNO_R3/video_9_Stepper_Motor_Code/Stepper_Motor.ino`
 
 ---
 
