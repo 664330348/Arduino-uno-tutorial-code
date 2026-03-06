@@ -42,6 +42,10 @@ This repository contains all the Arduino code used in my Arduino UNO R3 YouTube 
   Video link: [https://youtu.be/rf3ZPHj9d7c](https://youtu.be/rf3ZPHj9d7c)  
   Part1_Code: `Arduino_UNO_R3/video_9_Stepper_Motor_Code/Stepper_Motor.ino`
 
+- **Arduino UNO R3 | Ultrasonic Sensor Distance Measurement | Beginner Tutorial**  
+  Video link: [https://youtu.be/3J6AX9Al4us](https://youtu.be/3J6AX9Al4us)  
+  Part1_Code: `Arduino_UNO_R3/video_10_Ultrasonic_Sensor_Code/Ultrasonic_Sensor.ino`
+
 ---
 
 ---
