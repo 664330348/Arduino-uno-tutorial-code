@@ -35,7 +35,7 @@ This repository contains all the Arduino code used in my Arduino UNO R3 YouTube 
 
 - **Arduino UNO R3 | Servo Motor Tutorial | Beginner Tutorial**  
   Video link: [https://youtu.be/DbXPaQ_l8hU](https://youtu.be/DbXPaQ_l8hU)  
-  Part1_Code: `Arduino_UNO_R3/video_8_Servo_Motor_Code/Servo_Motor_Part1.ino`
+  Part1_Code: `Arduino_UNO_R3/video_8_Servo_Motor_Code/Servo_Motor_Part1.ino`  
   Part2_Code: `Arduino_UNO_R3/video_8_Servo_Motor_Code/Servo_Motor_Part2.ino`
 
 - **Arduino UNO R3 | Stepper Motor Tutorial | Beginner Friendly**  
@@ -48,7 +48,7 @@ This repository contains all the Arduino code used in my Arduino UNO R3 YouTube 
 
 - **Arduino UNO R3 | IR Receiver Remote Control | Beginner Tutorial**  
   Video link: [https://youtu.be/AW4XVxL39v0](https://youtu.be/AW4XVxL39v0)  
-  Part1_Code: `Arduino_UNO_R3/video_11_IR_Remote_Code/IR_Remote_Part1.ino`
+  Part1_Code: `Arduino_UNO_R3/video_11_IR_Remote_Code/IR_Remote_Part1.ino`  
   Part2_Code: `Arduino_UNO_R3/video_11_IR_Remote_Code/IR_Remote_Part2.ino`
 
 ---
