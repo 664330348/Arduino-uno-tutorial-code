@@ -40,11 +40,16 @@ This repository contains all the Arduino code used in my Arduino UNO R3 YouTube 
 
 - **Arduino UNO R3 | Stepper Motor Tutorial | Beginner Friendly**  
   Video link: [https://youtu.be/rf3ZPHj9d7c](https://youtu.be/rf3ZPHj9d7c)  
-  Part1_Code: `Arduino_UNO_R3/video_9_Stepper_Motor_Code/Stepper_Motor.ino`
+  Code: `Arduino_UNO_R3/video_9_Stepper_Motor_Code/Stepper_Motor.ino`
 
 - **Arduino UNO R3 | Ultrasonic Sensor Distance Measurement | Beginner Tutorial**  
   Video link: [https://youtu.be/3J6AX9Al4us](https://youtu.be/3J6AX9Al4us)  
-  Part1_Code: `Arduino_UNO_R3/video_10_Ultrasonic_Sensor_Code/Ultrasonic_Sensor.ino`
+  Code: `Arduino_UNO_R3/video_10_Ultrasonic_Sensor_Code/Ultrasonic_Sensor.ino`
+
+- **Arduino UNO R3 | IR Receiver Remote Control | Beginner Tutorial**  
+  Video link: [https://youtu.be/AW4XVxL39v0](https://youtu.be/AW4XVxL39v0)  
+  Part1_Code: `Arduino_UNO_R3/video_11_IR_Remote_Code/IR_Remote_Part1.ino`
+  Part2_Code: `Arduino_UNO_R3/video_11_IR_Remote_Code/IR_Remote_Part2.ino`
 
 ---
 
