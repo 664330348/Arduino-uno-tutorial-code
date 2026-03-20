@@ -51,6 +51,9 @@ This repository contains all the Arduino code used in my Arduino UNO R3 YouTube 
   Part1_Code: `Arduino_UNO_R3/video_11_IR_Remote_Code/IR_Remote_Part1.ino`  
   Part2_Code: `Arduino_UNO_R3/video_11_IR_Remote_Code/IR_Remote_Part2.ino`
 
+- **Arduino UNO R3 | Smart Fan | Part 1 | Basic Fan Control**  
+  Video link: [https://youtu.be/iHGS-rps7xA](https://youtu.be/iHGS-rps7xA)  
+  Code: `Arduino_UNO_R3_Fan_Project/Part_1_Basic_Fan_Control/Part_1.ino`  
 ---
 
 ---
