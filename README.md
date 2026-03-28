@@ -53,9 +53,9 @@ This repository contains all the Arduino code used in my Arduino UNO R3 YouTube 
 
 - **Arduino UNO R3 Smart Fan Project Series | Beginner to Advanced**  
   Part1 Video link: [https://youtu.be/iHGS-rps7xA](https://youtu.be/iHGS-rps7xA)  
-  Part1 Code: `Arduino_UNO_R3_Fan_Project/Part_1_Basic_Fan_Control.ino`  
+  Part1 Code: `Arduino_UNO_R3_Fan_Project/Part1_Basic_Fan_Control.ino`  
   Part2 Video link: [https://youtu.be/3A_IUeNhu9M](https://youtu.be/3A_IUeNhu9M)  
-  Part2 Code: `Arduino_UNO_R3_Fan_Project/Part_2_Button_Controlled_Fan.ino`  
+  Part2 Code: `Arduino_UNO_R3_Fan_Project/Part2_Button_Controlled_Fan.ino`  
   Part3 Video link: [https://youtu.be/TJ-2BPm7tVA](https://youtu.be/TJ-2BPm7tVA)  
   Part3 Code: `Arduino_UNO_R3_Fan_Project/Part3_Sensor_Controlled_Fan.ino`  
 
