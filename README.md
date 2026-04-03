@@ -1,6 +1,6 @@
 # Arduino UNO Tutorial Code
 
-This repository contains all the Arduino code used in my Arduino UNO R3 YouTube tutorial series.
+This repository contains all the Arduino code used in my Arduino UNO R3/R4 YouTube tutorial series.
 
 ---
 
