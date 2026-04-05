@@ -64,7 +64,7 @@ This repository contains all the Arduino code used in my Arduino UNO R3/R4 YouTu
 - **Arduino_UNO_R3_Projects**  
   SmartPlant_Part1 Video link: [https://youtu.be/YklHjhI9z84](https://youtu.be/YklHjhI9z84)  
   SmartPlant_Part1 Code: `Arduino_UNO_R3_Projects/SmartPlant_Part1_Monitoring_System.ino`  
-  SmartPlant_Part2 Video link: [https://youtu.be/ggqEFVzaoPk](https://youtu.be/ggqEFVzaoPk)  
+  SmartPlant_Part2 Video link: [https://youtu.be/eUnL05sk5KU](https://youtu.be/eUnL05sk5KU)  
   SmartPlant_Part2 Code: `Arduino_UNO_R3_Projects/SmartPlant_Part2_Automatic_Watering.ino`  
 
 ---
