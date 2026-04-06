@@ -1,6 +1,6 @@
 # 🔌 Arduino Wiring Guide
 
-This document records the wiring connections for all components used in this project.
+This document records the wiring connections.
 
 ---
 
