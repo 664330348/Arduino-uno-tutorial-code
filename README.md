@@ -75,7 +75,10 @@ This repository contains all the Arduino code used in my Arduino UNO R3/R4 YouTu
 
 - **Arduino UNO R4 WiFi | Arduino IoT Cloud Setup | Beginner Tutorial**  
   Video link: [https://youtu.be/m5ufk184imQ](https://youtu.be/m5ufk184imQ)  
-  Code: `Arduino_UNO_R4_Wifi/video_1_Cloud_Setup_Code/Cloud_Setup.ino`
+  Code: `Arduino_UNO_R4_Wifi/video_1_Cloud_Setup_Code.ino`  
+
+- **Arduino UNO R4 WiFi | RGB LED Control via Dashboard | IoT Cloud**   
+  Code: `Arduino_UNO_R4_Wifi/video_2_RGB_LED_Control.ino`  
 
 ---
 
