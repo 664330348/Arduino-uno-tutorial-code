@@ -81,6 +81,10 @@ This repository contains all the Arduino code used in my Arduino UNO R3/R4 YouTu
   Video link: [https://youtu.be/iiKepDgYFGw](https://youtu.be/iiKepDgYFGw)  
   Code: `Arduino_UNO_R4_Wifi/video_2_RGB_LED_Control.ino`  
 
+- **Arduino UNO R4 WiFi | Temperature & Humidity Monitor | IoT Cloud**  
+  Video link: [https://youtu.be/Za4uzja1BO4](https://youtu.be/Za4uzja1BO4)  
+  Code: `Arduino_UNO_R4_Wifi/video_3_Temperature_Humidity_Monitor.ino`  
+
 ---
 
 If you find this helpful, please subscribe to my YouTube channel!
