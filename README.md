@@ -85,6 +85,10 @@ This repository contains all the Arduino code used in my Arduino UNO R3/R4 YouTu
   Video link: [https://youtu.be/Za4uzja1BO4](https://youtu.be/Za4uzja1BO4)  
   Code: `Arduino_UNO_R4_Wifi/video_3_Temperature_Humidity_Monitor.ino`  
 
+- **Arduino UNO R4 WiFi | SG90 Servo Motor Control via Dashboard | IoT Cloud**  
+  Video link: [https://youtu.be/c1qgYuFsj4o](https://youtu.be/c1qgYuFsj4o)  
+  Code: `Arduino_UNO_R4_Wifi/video_4_SG90_Servo_Motor_Control.ino`  
+
 ---
 
 If you find this helpful, please subscribe to my YouTube channel!
