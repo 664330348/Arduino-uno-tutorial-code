@@ -89,6 +89,10 @@ This repository contains all the Arduino code used in my Arduino UNO R3/R4 YouTu
   Video link: [https://youtu.be/c1qgYuFsj4o](https://youtu.be/c1qgYuFsj4o)  
   Code: `Arduino_UNO_R4_Wifi/video_4_SG90_Servo_Motor_Control.ino`  
 
+- **Arduino UNO R4 WiFi | Stepper Motor Control via Dashboard | IoT Cloud**  
+  Video link: [https://youtu.be/TQ3kE40jN1I](https://youtu.be/TQ3kE40jN1I)  
+  Code: `Arduino_UNO_R4_Wifi/video_5_Stepper_Motor_Control.ino`  
+
 ---
 
 If you find this helpful, please subscribe to my YouTube channel!
