@@ -51,6 +51,10 @@ This repository contains all the Arduino code used in my Arduino UNO R3/R4 YouTu
   Part1_Code: `Arduino_UNO_R3/video_11_IR_Remote_Code/IR_Remote_Part1.ino`  
   Part2_Code: `Arduino_UNO_R3/video_11_IR_Remote_Code/IR_Remote_Part2.ino`
 
+- **Arduino UNO R3 | Joystick Control RGB LED | Beginner Tutorial**  
+  Video link: [https://youtu.be/7xuJ9rFJrZI](https://youtu.be/7xuJ9rFJrZI)  
+  Code: `Arduino_UNO_R3/video_12_Joystick_Control_Code/Joystick_Control_RGB_LED.ino`
+
 - **Arduino UNO R3 Smart Fan Project Series | Beginner to Advanced**  
   Part1 Video link: [https://youtu.be/iHGS-rps7xA](https://youtu.be/iHGS-rps7xA)  
   Part1 Code: `Arduino_UNO_R3_Fan_Project/Part1_Basic_Fan_Control.ino`  

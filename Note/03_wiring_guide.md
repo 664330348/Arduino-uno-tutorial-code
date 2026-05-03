@@ -68,6 +68,23 @@ This document records the wiring connections.
 
 ---
 
+# 🎮 Joystick Module (5V)
+
+| Pin    | Description        | Arduino UNO |
+|--------|--------------------|-------------|
+| GND    | Ground             | GND         |
+| VCC    | Power              | 5V          |
+| VRX    | X-axis analog out  | A5          |
+| VRY    | Y-axis analog out  | A4          |
+| SW     | Button (switch)    | D2          |
+
+### Notes
+- VRX controls left/right movement (X-axis)
+- VRY controls up/down movement (Y-axis)
+- SW is LOW when pressed, HIGH when released (usually uses INPUT_PULLUP)
+
+---
+
 # ⚠️ Notes
 
 - Avoid using D0 and D1 (Serial pins) if using Serial Monitor
