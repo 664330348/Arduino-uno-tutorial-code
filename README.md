@@ -55,6 +55,10 @@ This repository contains all the Arduino code used in my Arduino UNO R3/R4 YouTu
   Video link: [https://youtu.be/7xuJ9rFJrZI](https://youtu.be/7xuJ9rFJrZI)  
   Code: `Arduino_UNO_R3/video_12_Joystick_Control_Code/Joystick_Control_RGB_LED.ino`
 
+- **Arduino UNO R3 | Tally Counter System with Buttons | Beginner Tutorial**  
+  Video link: [https://youtu.be/b8rOz_x4jPM](https://youtu.be/b8rOz_x4jPM)  
+  Code: `Arduino_UNO_R3/video_13_Tally_Counter_System_Code/Tally_Counter_System.ino`
+
 - **Arduino UNO R3 Smart Fan Project Series | Beginner to Advanced**  
   Part1 Video link: [https://youtu.be/iHGS-rps7xA](https://youtu.be/iHGS-rps7xA)  
   Part1 Code: `Arduino_UNO_R3_Fan_Project/Part1_Basic_Fan_Control.ino`  
