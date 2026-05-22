@@ -80,7 +80,9 @@ This repository contains all the Arduino code used in my Arduino UNO R3/R4 YouTu
   OLED_Display_P1 Code: `Arduino_UNO_R3_OLED_Display_Project/OLED_Display_P1_Hello_World.ino`  
   OLED_Display_P2 Video link: [https://youtu.be/KEID5Bkzr_E](https://youtu.be/KEID5Bkzr_E)  
   OLED_Display_P2 Code: `Arduino_UNO_R3_OLED_Display_Project/OLED_Display_P2_Text_Shapes.ino`  
-
+  OLED_Display_P3 Video link: [https://youtu.be/KEID5Bkzr_E](https://youtu.be/KEID5Bkzr_E)  
+  OLED_Display_P3 Code: `Arduino_UNO_R3_OLED_Display_Project/OLED_Display_P3_Bitmap_Icons.ino`  
+  OLED_Display_P3_test_image Code: `Arduino_UNO_R3_OLED_Display_Project/OLED_Display_P3_Bitmap_Icons_test_image.ino`  
 ---
 
 ---
