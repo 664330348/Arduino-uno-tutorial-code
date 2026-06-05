@@ -89,6 +89,8 @@ This repository contains all the Arduino code used in my Arduino UNO R3/R4 YouTu
   OLED_Display_P5 Code: `Arduino_UNO_R3_OLED_Display_Project/OLED_Display_P5_Digital_Counter.ino`  
   OLED_Display_P6 Video link: [https://youtu.be/zkifN53Jc9Q](https://youtu.be/zkifN53Jc9Q)  
   OLED_Display_P6 Code: `Arduino_UNO_R3_OLED_Display_Project/OLED_Display_P6_Button_Interface.ino`  
+  OLED_Display_P7 Video link: [https://youtu.be/aEUy2Ry7E8Y](https://youtu.be/aEUy2Ry7E8Y)  
+  OLED_Display_P7 Code: `Arduino_UNO_R3_OLED_Display_Project/OLED_Display_P7_Joystick_Menu.ino`  
 ---
 
 ---
