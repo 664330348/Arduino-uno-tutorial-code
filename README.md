@@ -93,6 +93,8 @@ This repository contains all the Arduino code used in my Arduino UNO R3/R4 YouTu
   OLED_Display_P7 Code: `Arduino_UNO_R3_OLED_Display_Project/OLED_Display_P7_Joystick_Menu.ino`  
   OLED_Display_P8 Video link: [https://youtu.be/ZPnQyA9FGrw](https://youtu.be/ZPnQyA9FGrw)  
   OLED_Display_P8 Code: `Arduino_UNO_R3_OLED_Display_Project/OLED_Display_P8_Temperature_Monitor.ino` 
+  OLED_Display_P9 Video link: [https://youtu.be/HvtG0NQgUpM](https://youtu.be/HvtG0NQgUpM)  
+  OLED_Display_P9 Code: `Arduino_UNO_R3_OLED_Display_Project/OLED_Display_P8_Temperature_Monitor.ino`  
 ---
 
 ---
