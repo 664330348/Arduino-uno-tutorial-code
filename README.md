@@ -97,6 +97,8 @@ This repository contains all the Arduino code used in my Arduino UNO R3/R4 YouTu
   OLED_Display_P9 Code: `Arduino_UNO_R3_OLED_Display_Project/OLED_Display_P9_OLED_Radar_Interface.ino`  
   OLED_Display_P10 Video link: [https://youtu.be/spbQUyi83To](https://youtu.be/spbQUyi83To)  
   OLED_Display_P10 Code: `Arduino_UNO_R3_OLED_Display_Project/OLED_Display_P10_Loading_Animations.ino`  
+  OLED_Display_P11 Video link: [https://youtu.be/B2FYNrmKBZ8](https://youtu.be/B2FYNrmKBZ8)  
+  OLED_Display_P11 Code: `Arduino_UNO_R3_OLED_Display_Project/OLED_Display_P11_Mini_Stopwatch.ino`  
 ---
 
 ---
